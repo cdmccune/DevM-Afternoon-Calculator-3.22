@@ -33,4 +33,3 @@ reader.question("What would you like to calculate?", function(input){
 	// This line closes the connection to the command line interface.
 	reader.close()
 });
-console.log("hi")
